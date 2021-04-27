@@ -13,7 +13,7 @@ In the program, I created an MLP network to classify points into 5 classes. We h
 In this project, we have a dataset of points that define some nonlinear function, train the network based on them and see the result.
 
 ## Heart illness detection
-This one is a practical task. We have a dataset of real researches, the aim is to determine the type of arrhythmia from the ECG recordings. The database contains 279 attributes, 206 of which are linear valued and the rest are nominal. The number of instances is 452.
+This one is a practical task. We have a dataset of real researches, the aim is to determine the type of arrhythmia from the ECG recordings. The database contains 279 attributes, 206 of which are linear valued and the rest are nominal. The number of instances recorded is 452.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
