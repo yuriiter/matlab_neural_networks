@@ -1,4 +1,4 @@
-# Matlab nerual networks
+# Matlab neural networks
 
 Here are matlab neural network projects that I made during study at university.
 This is the list:
